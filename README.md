@@ -1,6 +1,5 @@
-# Image-Classification-with-TensorFlow-and-Keras
-
-# AML- Image Classification with TensorFlow and Keras
+# Applied Machine Learning
+# Image Classification with TensorFlow and Keras
 
 This repository contains code for an image classification which focuses on building a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images into three classes: Cars, Footwear, and Trees.
 
