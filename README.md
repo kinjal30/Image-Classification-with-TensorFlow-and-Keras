@@ -4,7 +4,7 @@
 This repository contains code for an image classification which focuses on building a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images into three classes: Cars, Footwear, and Trees.
 
 # Code Description:
-This project involves creating an image classification system using TensorFlow and Keras to categorize images into Cars, Footwear, and Trees. Through data augmentation, a pre-trained ResNet50 model is fine-tuned to achieve accurate classification. I have also performed evaluation on a distinct test set which validated the model's performance, yielding insights through visualizations. Peforming this project gave a clear understanding and proficiency in deep learning, data preprocessing, model training, and computer vision, with the ability to solve real-world classification challenges.
+This project involves creating an image classification system using TensorFlow and Keras to categorize images into Cars, Footwear, and Trees. Through data augmentation, a pre-trained ResNet50 model is fine-tuned to achieve accurate classification. I have also performed evaluation on a distinct test set which validated the model's performance, yielding insights through visualizations. Working on this project gave a clear understanding and proficiency in deep learning, data preprocessing, model training, and computer vision, with the ability to solve real-world classification challenges.
 
 ## Code Structure:
 
