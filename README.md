@@ -1,5 +1,5 @@
 # Applied Machine Learning
-# Image Classification with TensorFlow and Keras
+# ClassiVision: Deep Learning Image Classifier:
 
 This repository contains code for an image classification which focuses on building a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images into three classes: Cars, Footwear, and Trees.
 
